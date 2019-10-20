@@ -6,7 +6,7 @@ This a basic Flutter app that displays SpaceX launches and launch detail.
 
 The purpose of making this app is to compare the REST API code with the Graphql API code.
 
-Same app with Graphql can be found at - 
+Same app with the Graphql can be found at - 
 https://github.com/darshanDevrai/flutterGraphqlSpaceXDemo
 
 This app is a part of tutorial series on Flutter developer's guide to Graphql - 
